@@ -1,7 +1,4 @@
 #Felipe Dabbah, dabbah@usc.edu
-# ITP 216, Fall 2024 
-# Section 20243
-#Final Project
 #Description: This program is a web application that allows users to search for the closing price of Google stock and the volume of stocks traded.
 
 import datetime
